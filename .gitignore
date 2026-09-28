@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.*
+!.env.example
+app/*.apk
+app/*.apks
+artifacts/
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+docs/novos-testes.md
+docs/execucoes.md
